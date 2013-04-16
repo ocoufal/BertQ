@@ -2,11 +2,11 @@
   <img src="http://s16.postimg.org/yyam266xx/avatars_000018825854_uvf621_t200x200.jpg" width="100px">
 </a>
 
-# [Bootstrap v2.3.1](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
+# [Eklen Sounds v2.3.1](http://eklen.blog.cz) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
 
-Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created and maintained by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat).
+Eklen is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created and maintained by [Ondøej Coufal](https://thawing-meadow-4754.herokuapp.com/developer/leaderones44.html), [Jacob Thornton](http://twitter.com/fat) and [Mark Otto](http://twitter.com/mdo).
 
-To get started, checkout [http://getbootstrap.com](http://getbootstrap.com)!
+To get started, checkout [Bert,Q Picture App](https://thawing-meadow-4754.herokuapp.com)!
 
 
 
@@ -15,7 +15,7 @@ To get started, checkout [http://getbootstrap.com](http://getbootstrap.com)!
 Three quick start options are available:
 
 * [Download the latest release](https://github.com/twitter/bootstrap/zipball/master).
-* Clone the repo: `git clone git://github.com/twitter/bootstrap.git`.
+* Clone the repo: `git clone git://github.com/ones44/eklen.git`.
 * Install with Twitter's [Bower](http://twitter.github.com/bower): `bower install bootstrap`.
 
 
